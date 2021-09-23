@@ -1,0 +1,4 @@
+-  👋 Hi, I’m @Gabytec68
+- 👀 I’m interested in Data Science and Web Development
+-  🌱 I’m currently learning  Python and Web Development languages
+- 💞️ I’m looking to collaborate on projects that address these issues.
